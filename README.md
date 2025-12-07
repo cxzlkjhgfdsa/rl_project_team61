@@ -1,7 +1,5 @@
 # RL Project
 
----
-
 ## 1. 프로잭트 개요
 
 Proximal Policy Optimization Algorithm, Schulman et al, 2017 논문 재현실험
